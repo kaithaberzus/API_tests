@@ -1,5 +1,6 @@
  ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Дипломный проект. Задание 2: Тестирование API 
 ***
@@ -68,5 +69,6 @@
 **Клонирование репозитория**
 
 > `$ git clone https://github.com/kaithaberzus/API_tests.git`
+
 
 
